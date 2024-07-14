@@ -13,7 +13,7 @@ function checkAnswer() {
     let userAnswer = document.querySelector('input[name="quiz"]:checked');
 
 
-    // checking for a radio button checked.........
+    // checking for a radio button checked.............
 
     if (userAnswer) {
         // Access the value property of the selected radio button to get the user’s answer
